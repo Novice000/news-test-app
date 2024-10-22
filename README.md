@@ -1,6 +1,5 @@
 # News Generator
 Generates a pdf file of healines and url links to the news article online. It generates top headlines or searches through thousands of articles from multiples sources depending on the flag it is given.
-### Vide Demo: <https://youtu.be/Mh8_o21VJoQ>
 ### Desccription
 #### Project.py
 
