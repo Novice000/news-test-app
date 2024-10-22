@@ -1,0 +1,5 @@
+fpdf2
+pytest
+tabulate
+requests
+dotenv
